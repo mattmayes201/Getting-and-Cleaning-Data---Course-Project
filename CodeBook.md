@@ -1,5 +1,4 @@
 CodeBook for the tidy dataset
-Data source
 
 This dataset is derived from the "Human Activity Recognition Using Smartphones Data Set" which was originally 
 
